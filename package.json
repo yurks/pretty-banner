@@ -1,0 +1,29 @@
+{
+  "name": "pretty-banner",
+  "version": "1.0.0",
+  "description": "Banner generator based on package.json data.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yurks/pretty-banner.git"
+  },
+  "keywords": [
+    "banner",
+    "header",
+    "license",
+    "generator",
+    "package.json"
+  ],
+  "author": "Yurk Sha (http://yurks.github.io/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yurks/pretty-banner/issues"
+  },
+  "homepage": "https://github.com/yurks/pretty-banner#readme",
+  "dependencies": {
+    "parse-author": "^0.2.1"
+  }
+}
